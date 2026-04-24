@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: CIDES - Grupo de Divulgación Científica # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: "https://armonioso-stroopwafel-b425bb.netlify.app/" # Website URL
 
 ############################
 ## LANGUAGE
