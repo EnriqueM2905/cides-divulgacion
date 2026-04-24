@@ -61,3 +61,10 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+############################
+## MODULES (Añade esto al final)
+############################
+
+module:
+  imports:
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
