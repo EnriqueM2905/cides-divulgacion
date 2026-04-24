@@ -1,0 +1,48 @@
+# SITE SETUP
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: native
+  font_size: L
+
+# SEO
+marketing:
+  seo:
+    site_type: Organization
+    org_name: 'CIDES'
+    description: 'Círculo de Divulgación Científica - Cusco'
+    twitter: ''
+
+# Site header - AQUÍ ESTÁ EL COLOR AZUL
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: false
+    show_search: true
+    highlight_active_link: true
+    # Forzamos el azul oscuro institucional
+    background_color: '#1a2a4a' 
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} CIDES. Todos los derechos reservados.'
+    license:
+      enable: false
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+
+# Site features
+features:
+  syntax_highlighter:
+    enable: true
+  math:
+    enable: true
+  search:
+    provider: wowchemy

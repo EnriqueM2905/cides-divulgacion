@@ -1,0 +1,16 @@
+main:
+  - name: Inicio
+    url: '/'
+    weight: 10
+  - name: Redacciones
+    url: '#redacciones' # Corregido para que coincida con el ID del bloque
+    weight: 20
+  - name: Dosis de Ciencia
+    url: '#eventos'
+    weight: 30
+  - name: Podcast
+    url: '#podcast'
+    weight: 40
+  - name: Equipo
+    url: '/equipo/'
+    weight: 50

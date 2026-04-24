@@ -1,0 +1,9 @@
+/* Color verde Spotify para los botones y enlaces de podcast */
+.type-podcast a {
+    color: #1DB954 !important;
+    font-weight: bold;
+}
+
+.type-podcast .card {
+    border-left: 5px solid #1DB954; /* Le da una línea verde lateral a la tarjeta */
+}
