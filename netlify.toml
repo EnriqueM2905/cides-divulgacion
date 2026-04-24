@@ -3,5 +3,5 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.123.0" # O la versión que tengas instalada
+  HUGO_VERSION = "0.140.0"
   HUGO_ENV = "production"
